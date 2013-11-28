@@ -1,6 +1,11 @@
 # DeviseSubscriber
 
-TODO: Write a gem description
+Devise hook for adding users into subscriber list of newsletter.
+
+## NOTE
+
+This gem is in WIP and big TODO list
+
 
 ## Installation
 
@@ -18,7 +23,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Work in progress
 
 ## Contributing
 
